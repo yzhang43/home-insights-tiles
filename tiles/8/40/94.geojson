@@ -1,0 +1,7 @@
+{ "type": "FeatureCollection", "properties": { "zoom": 8, "x": 40, "y": 94 }, "features": [
+{ "type": "FeatureCollection", "properties": { "layer": "powerlines", "version": 2, "extent": 4096 }, "features": [
+{ "type": "Feature", "id": 577, "properties": { "OBJECTID": 577, "Name": "PCORP 230kV", "kV": "230", "kV_Sort": 230, "Owner": "PCORP", "Status": "Operational", "Circuit": "Single", "Type": "OH", "Legend": "PCORP_230kV", "Length_Mile": 3, "Length_Feet": "14365.81681435", "TLine_Name": "Oregon State-Capco 2", "Source": "Pacific Power", "Comments": " ", "Creator": "FTHONG", "Creator_Date": "Fri, 05 Feb 2010 00:00:00 GMT", "Last_Editor": "SVC_AGIS_SQLADM", "Last_Editor_Date": "Mon, 25 Apr 2016 15:27:56 GMT", "GlobalID": "a5779fc7-a1d6-4866-ad4b-a9dc9533180d" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.356453, 42.012571 ], [ -122.356453, 42.012826 ] ] } }
+,
+{ "type": "Feature", "id": 576, "properties": { "OBJECTID": 576, "Name": "PCORP 230kV", "kV": "230", "kV_Sort": 230, "Owner": "PCORP", "Status": "Operational", "Circuit": "Single", "Type": "OH", "Legend": "PCORP_230kV", "Length_Mile": 3, "Length_Feet": "14392.54317192", "TLine_Name": "Oregon State-Capco 2", "Source": "Pacific Power", "Comments": " ", "Creator": "FTHONG", "Creator_Date": "Fri, 05 Feb 2010 00:00:00 GMT", "Last_Editor": "SVC_AGIS_SQLADM", "Last_Editor_Date": "Mon, 25 Apr 2016 15:27:56 GMT", "GlobalID": "c08902a7-6641-46d7-93dc-dc151d4f37a2" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.356796, 42.012826 ], [ -122.356796, 42.012571 ] ] } }
+] }
+] }

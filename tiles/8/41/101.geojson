@@ -1,0 +1,5 @@
+{ "type": "FeatureCollection", "properties": { "zoom": 8, "x": 41, "y": 101 }, "features": [
+{ "type": "FeatureCollection", "properties": { "layer": "powerlines", "version": 2, "extent": 4096 }, "features": [
+{ "type": "Feature", "id": 2898, "properties": { "OBJECTID": 2898, "Name": "PG&E 60kV", "kV": "60", "kV_Sort": 60, "Owner": "PG&E", "Status": "Operational", "Circuit": "Single", "Type": "OH", "Legend": "PG&E_60_70kV", "Length_Mile": 14, "Length_Feet": "72326.7693426", "TLine_Name": " ", "Source": "Google & BING & ESRI", "Comments": " ", "Creator": "FTHONG", "Creator_Date": "Mon, 09 Aug 2010 00:00:00 GMT", "Last_Editor": "SVC_AGIS_SQLADM", "Last_Editor_Date": "Mon, 25 Apr 2016 15:28:18 GMT", "GlobalID": "2fa106c4-0d4c-4e07-ac34-706d606407d8" }, "geometry": { "type": "LineString", "coordinates": [ [ -120.917931, 35.483038 ], [ -120.910034, 35.478285 ] ] } }
+] }
+] }
